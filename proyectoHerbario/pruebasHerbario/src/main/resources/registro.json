@@ -1,0 +1,13 @@
+{
+	"REGISTRO": [
+		{
+			"id":"1",
+			"estado":"Aceptado",
+			"fecha": "1992-12-28",
+			"especieEnviada":null,
+			"enviadorDelRegistro":"3",
+			"evaluadorDelRegistro":"2"
+		}
+		
+	]
+}

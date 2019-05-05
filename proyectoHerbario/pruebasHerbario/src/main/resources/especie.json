@@ -1,0 +1,9 @@
+{
+	"Especie": [
+		{
+			"id":"1",
+			"estado":"Empleado",
+			"fecha": "1992-12-28"
+		}
+	]
+}

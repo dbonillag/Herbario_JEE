@@ -1,0 +1,46 @@
+{
+	"PERSONA": [
+		{
+			"id":"1",
+			"dtype":"Empleado",
+			"cedula": "123456789",
+			"nombre": "Pedro Perez",
+			"email": "pperez@mail.com",
+			"clave": "12345"
+		},
+		{
+			"id":"2",
+			"dtype":"Administrador",
+			"cedula": "223456789",
+			"nombre": "Maria Martinez",
+			"email": "mmartinez@mail.com",
+			"clave": "12345"
+		},
+		{
+			"id":"3",
+			"cedula": "323456789",
+			"dtype":"Recolector",
+			"nombre": "Hernan Hernandez",
+			"email": "hhernandez@mail.com",
+			"clave": "12345"
+		}
+	],
+	"EMPLEADO":[
+		{
+			"id":"1"
+		}
+	],
+	"RECOLECTOR":[
+		{
+			"id":"3"
+		}
+	],
+	"ADMINISTRADOR":[
+		{
+			"id":"2"
+		
+		}
+
+	]
+
+}
